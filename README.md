@@ -1,6 +1,6 @@
 # MIS
 ##ER图
-![ER图](https://github.com/09143793/MIS/blob/master/E.png)
+![ER图](https://github.com/09143793/MIS/blob/master/ER.png)
 MIS homework
 管理信息系统作业——设备保养数据模型<br/>
 数据表：<br/>
