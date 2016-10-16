@@ -1,6 +1,5 @@
 # MIS
-##ER图
-![ER图](https://github.com/09143793/MIS/blob/master/ER.png)
+##
 MIS homework
 管理信息系统作业——设备保养数据模型<br/>
 数据表：<br/>
@@ -89,13 +88,14 @@ where 材料ID='1';<br/>
  
 3、SELECT * FROM 设备保养系统.保养项目<br/>
 where 设备ID='1';<br/>
-
+![3](https://github.com/09143793/MIS/blob/master/3.png)
  
 
 /4、Select 设备ID from设备保养系统.设备类型<br/>
 Where 365-datediff(now(),(select date from 设备保养系统.保养类别))<6;<br/>
-
+![4](https://github.com/09143793/MIS/blob/master/4.png)
  
 ER图模型：<br/>
+![ER图](https://github.com/09143793/MIS/blob/master/ER.png)
  
 AXURE模型地址：http://5go4q4.axshare.com<br/>
