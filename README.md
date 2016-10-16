@@ -81,11 +81,11 @@ CREATE TABLE `设备类型` (<br/>
 1、SELECT * FROM 设备保养系统.保养记录单<br/>
 where 保养ID=(select 保养ID from 设备保养系统.保养消耗<br/>
 where 材料ID='1');<br/>
-
+![1](https://github.com/09143793/MIS/blob/master/1.png)
  
 2、SELECT * FROM 设备保养系统.保养消耗<br/>
 where 材料ID='1';<br/>
-
+![2](https://github.com/09143793/MIS/blob/master/2.png)
  
 3、SELECT * FROM 设备保养系统.保养项目<br/>
 where 设备ID='1';<br/>
