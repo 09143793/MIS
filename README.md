@@ -98,4 +98,4 @@ Where 365-datediff(now(),(select date from 设备保养系统.保养类别))<6;<
 ER图模型：<br/>
 ![ER图](https://github.com/09143793/MIS/blob/master/ER.png)
  
-AXURE模型地址：http://5go4q4.axshare.com<br/>
+AXURE模型地址：http://5go4q4.axshare.com 
